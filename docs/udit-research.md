@@ -39,3 +39,78 @@ https://www.youtube.com/watch?v=_zfN9wnPvU0
 **Open letter Petition with 1100+ professor Signatures:**
 - https://openletter.earth/open-letter-stop-the-uncritical-adoption-of-ai-technologies-in-academia-b65bba1e?limit=0 (In Academics)
 - https://openletter.earth/an-open-letter-from-educators-who-refuse-the-call-to-adopt-genai-in-education-cb4aee75?limit=0 (Total GenAI)
+
+
+
+
+
+
+Research Papers & Resources: Authentic AI / Misinformation Verification
+Papers / Sources
+Application of Artificial Intelligence Techniques to Detect Fake News — MDPI
+ https://www.mdpi.com/2079-9292/12/24/5041?utm_source=chatgpt.com
+
+
+Real-time Fake News Detection in Online Social Networks — Nature (FANDC system)
+ https://www.nature.com/articles/s41598-024-76102-9?utm_source=chatgpt.com
+
+
+Fake News Research Trends — Bibliometric survey
+ https://pmc.ncbi.nlm.nih.gov/articles/PMC10844021/?utm_source=chatgpt.com
+
+
+Artificial Intelligence Can Generate Fraudulent but Authentic-Looking Medical Papers
+ https://pmc.ncbi.nlm.nih.gov/articles/PMC10267787/?utm_source=chatgpt.com
+
+
+Safeguarding Authenticity for Mitigating the Harms of Generative AI
+ https://pmc.ncbi.nlm.nih.gov/articles/PMC10838945/?utm_source=chatgpt.com
+
+
+Detecting AI-Generated Textual, Visual, and Audio Content — Practical Synthesis
+ https://arxiv.org/abs/2504.02898?utm_source=chatgpt.com
+
+
+Fact-Checking at Scale: Multimodal AI for Authenticity and Context Verification
+ https://arxiv.org/abs/2508.08592?utm_source=chatgpt.com
+
+
+Designing Effective AI Explanations for Misinformation Detection
+ https://arxiv.org/abs/2509.03693?utm_source=chatgpt.com
+
+
+Impact of AIGC Labels On Perceived Accuracy and Sharing Intent
+ https://formative.jmir.org/2024/1/e60024?utm_source=chatgpt.com
+
+
+Mapping the Impact of Generative AI on Disinformation
+ https://www.mdpi.com/2304-6775/13/3/33?utm_source=chatgpt.com
+
+
+Explainable AI Applied to Fake News Detection — Survey
+ https://www.sciencedirect.com/science/article/abs/pii/S0952197623002713?utm_source=chatgpt.com
+
+
+Detecting Fake News on Social Media: A Data Mining Perspective — Shu et al.
+ (Wikipedia-supported)
+
+
+
+Summary of What to Read First
+Start with:
+(1) MDPI — AI fake news techniques
+
+
+(4) Fraudulent medical papers
+
+
+(5) Safeguarding authenticity
+
+
+(7) Fact-checking at scale
+
+
+(8) AI explanations for misinformation
+
+
+These will give theory + pipeline + UX insights.
