@@ -30,7 +30,7 @@ User prompt → Router (classifier) → Crawler → Knowledge Base → LLM (summ
 - Dynamic trust scoring for sources
 
 #### 2. Verification Pipeline
-- **Option A**: Use Perplexity API → scrape research papers → LLM parsing
+- **Option A**: Use Firecrawler API → scrape research papers → LLM parsing
 - **Option B**: Custom search → LLM-generated search queries → web scraping → relevance filtering
 
 #### 3. Trust Scoring Algorithm
@@ -94,6 +94,7 @@ Where: D=Domain trust, C=Cross-source consistency, R=Recency, F=Fact-check verif
 - [ScienceDirect - Domain General Cognitive Ability](https://www.sciencedirect.com/topics/psychology/domain-general-cognitive-ability)
 - [ScienceDirect - Research Article](https://www.sciencedirect.com/science/article/abs/pii/S1364661312000824)
 - [PhD Discussion Thread](https://bsky.app/profile/irisvanrooij.bsky.social/post/3lvm7x4oo2k2o)
+- https://www.mdpi.com/2079-9292/12/24/5041
 
 ### Open Letters from Academia
 - [1100+ Professor Signatures - Stop Uncritical AI Adoption in Academia](https://openletter.earth/open-letter-stop-the-uncritical-adoption-of-ai-technologies-in-academia-b65bba1e)
