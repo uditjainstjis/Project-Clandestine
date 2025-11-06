@@ -1,0 +1,27 @@
+Zero-Shot Classification
+Zero-shot text classification is a task in natural language processing where a model is trained on a set of labeled examples but is then able to classify new examples from previously unseen classes.
+
+
+
+Zero Shot Classification is the task of predicting a class that wasn't seen by the model during training. This method, which leverages a pre-trained language model, can be thought of as an instance of transfer learning which generally refers to using a model trained for one task in a different application than what it was originally trained for. This is particularly useful for situations where the amount of labeled data is small.
+
+
+from transformers import pipeline
+
+# Load the zero-shot classification model
+pipe = pipeline(model="facebook/bart-large-mnli")
+
+# Run classification
+result = pipe(
+    "I have a problem with my iphone that needs to be resolved asap!",
+    candidate_labels=["urgent", "not urgent", "phone", "tablet", "computer"],
+)
+
+print(result)
+
+
+{
+    'sequence': 'I have a problem with my iphone that needs to be resolved asap!',
+    'labels': ['urgent', 'phone', 'computer', 'not urgent', 'tablet'],
+    'scores': [0.504, 0.479, 0.013, 0.003, 0.002]
+}
