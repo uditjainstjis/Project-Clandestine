@@ -136,3 +136,4 @@ Different types of news have different characteristics:
 - **Fake news** often uses emotional language, excessive punctuation, and sensational words
 
 By converting these characteristics into numbers, we give the model the tools it needs to learn these patterns and make accurate predictions.
+
